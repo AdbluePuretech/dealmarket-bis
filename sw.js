@@ -9,7 +9,7 @@
 //
 // Le numero de version force le renouvellement : republier le terminal sans le
 // changer laisserait les fenetres installees sur l'ancienne copie.
-const VERSION = "dealmarket-2026-08-21";
+const VERSION = "dealmarket-c4bf319d7e7f";
 const FICHIERS = ["./", "./index.html", "./manifest.webmanifest",
                   "./icone-192.png", "./icone-512.png"];
 
