@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /
+
+# This page is task material for a financial-modelling evaluation. It stays
+# reachable to anyone holding the link, and is kept out of search indexes so a
+# candidate cannot arrive at it through a query.
